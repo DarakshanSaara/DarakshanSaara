@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 `Java` `Spring Boot` `HTML` `CSS` `JS` `Firebase` `GitHub` `Postman` `MySQL` `Git`
 
 ## 💼 Projects
+- 💻 [Oasis InfoByte Internship](https://github.com/DarakshanSaara/OIBSIP)
+- 🎓 [Career Recommender - Java + Spring Boot WebApp](https://github.com/DarakshanSaara/career-path-api)
 - 💸 [PayMate](https://github.com/DarakshanSaara/paymate): Blockchain-based student payment app
 - 🔗 [Postman API Challenge](https://github.com/DarakshanSaara/postman-api-certification): Completed with certification
 - 🌍 [Open Source Contributions](https://github.com/DarakshanSaara/open-source-contributions-gssoc-hacktoberfest): GSSoC, Hacktoberfest, PRs + Holopin badges
-- 💻 [Oasis InfoByte Internship](https://github.com/DarakshanSaara/OIBSIP)
+
 
 ## 📊 LeetCode Practice
 - Solved 200+ problems  

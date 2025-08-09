@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   **100 Days Badge 2025**
 
 - # ✅ Problem Categories:
-  **Arrays, Linked List, String, Bit Manipulation, Stack, Queue, Tree, Graph, Sorting, Searching, Greedy, DP**  
+  **Arrays, Linked List, String, Dynamic Programming, Bit Manipulation, Stack, Queue, Tree, Graph, Sorting, Searching, Greedy, DP**  
 - [View Profile](https://leetcode.com/SaaraDarakshan/)
 
 ## 📜 Certifications

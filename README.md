@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 
 
 ## 📊 LeetCode Practice
-- Solved 200+ problems  
+- Solved 250+ problems  
 - Language: Java, C++
 - Streak :
   **50 Days Badge 2025**
   **100 Days Badge 2025**
+  **200 Days Badge 2025**
 
 - # ✅ Problem Categories:
   **Arrays, Linked List, String, Dynamic Programming, Bit Manipulation, Stack, Queue, Tree, Graph, Sorting, Searching, Greedy, DP**  

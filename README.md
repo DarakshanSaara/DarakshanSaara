@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 💸 [PayMate](https://github.com/DarakshanSaara/paymate): Blockchain-based student payment app
 - 🔗 [Postman API Challenge](https://github.com/DarakshanSaara/postman-api-certification): Completed with certification
 - 🌍 [Open Source Contributions](https://github.com/DarakshanSaara/open-source-contributions-gssoc-hacktoberfest): GSSoC, Hacktoberfest, PRs + Holopin badges
+- 📽️ [LyVo]: AI-Powered Video Conferencing Platform
 
 
 ## 📊 LeetCode Practice

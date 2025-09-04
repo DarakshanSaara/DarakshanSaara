@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Saara Darakshan
 
-🎓 B.Tech CSE | Java and Spring Boot | Full-Stack Developer | Open Source Contributor | Hackathon Finalist | Content Creator
+🎓 B.Tech CSE | Java and Spring Boot | Full-Stack Developer | Open Source Contributor | Hackathon Finalist | Exploring Cloud and AI | Content Creator
 
 <!--
 **DarakshanSaara/DarakshanSaara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 
 - # ✅ Problem Categories:
   **Arrays, Linked List, String, Dynamic Programming, Bit Manipulation, Stack, Queue, Tree, Graph, Sorting, Searching, Greedy, DP**  
-- [View Profile](https://leetcode.com/SaaraDarakshan/)
 
 ## 📜 Certifications
 - [Data Structure and Backend with Java](https://www.coursera.org/account/accomplishments/verify/4J4OD8AJLEV4?utm_product=course)
@@ -48,4 +47,6 @@ Here are some ideas to get you started:
 - [GenAI Study Jams](https://gdg-lncts.github.io/GenAi-Verifications/verify.html?certID=GenAi24_0027)
 
 ## 📬 Connect With Me
-[LinkedIn](www.linkedin.com/in/saara-darakshan-877238322) | [GitHub](https://github.com/DarakshanSaara)
+[LinkedIn](www.linkedin.com/in/saara-darakshan-877238322)
+[GitHub](https://github.com/DarakshanSaara)
+[Email](saaradarakshan56@gmail.com)

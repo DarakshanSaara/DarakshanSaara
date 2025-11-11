@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   **50 Days Badge 2025**
   **100 Days Badge 2025**
   **200 Days Badge 2025**
+  **300+ Days Annual Badge 2025**
 
 - # ✅ Problem Categories:
   **Arrays, Linked List, String, Dynamic Programming, Bit Manipulation, Stack, Queue, Tree, Graph, Sorting, Searching, Greedy, DP**  

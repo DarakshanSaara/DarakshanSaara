@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - Solved 300+ problems  
 - Language: Java, C++
 - Streak :
+
   **50 Days Badge 2025**
 
   **100 Days Badge 2025**

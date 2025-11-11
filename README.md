@@ -30,12 +30,15 @@ Here are some ideas to get you started:
 
 
 ## 📊 LeetCode Practice
-- Solved 250+ problems  
+- Solved 300+ problems  
 - Language: Java, C++
 - Streak :
   **50 Days Badge 2025**
+
   **100 Days Badge 2025**
+
   **200 Days Badge 2025**
+
   **300+ Days Annual Badge 2025**
 
 - # ✅ Problem Categories:

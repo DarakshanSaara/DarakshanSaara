@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   **300+ Days Annual Badge 2025**
 
 - # ✅ Problem Categories:
-  **Arrays, Linked List, String, Dynamic Programming, Bit Manipulation, Stack, Queue, Tree, Graph, Sorting, Searching, Greedy, DP**  
+  **Arrays, Linked List, String, Dynamic Programming, Bit Manipulation, Stack, Queue, Tree, Graph, Sorting, Searching, Greedy**  
 
 ## 📜 Certifications
 - [Data Structure and Backend with Java](https://www.coursera.org/account/accomplishments/verify/4J4OD8AJLEV4?utm_product=course)

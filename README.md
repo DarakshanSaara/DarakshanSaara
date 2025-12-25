@@ -48,6 +48,7 @@ Here are some ideas to get you started:
   **Arrays, Linked List, String, Dynamic Programming, Bit Manipulation, Stack, Queue, Tree, Graph, Sorting, Searching, Greedy, Hash Table**  
 
 ## 📜 Certifications
+- [Associate in IT Foundation Skills (Java)] - Infosys Springboard
 - [Data Structure and Backend with Java](https://www.coursera.org/account/accomplishments/verify/4J4OD8AJLEV4?utm_product=course)
 - [Credly Badge Board](https://www.credly.com/users/saara-darakshan)
 - [Google Cloud Arcade](https://certificate.givemycertificate.com/c/2d61a888-0efb-4f3e-ba1f-21984545b9c6)

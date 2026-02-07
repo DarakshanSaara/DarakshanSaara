@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 ## 📊 LeetCode Practice
-- Solved 300+ problems  
+- Solved 350+ problems  
 - Language: Java, C++
 - Streak :
 

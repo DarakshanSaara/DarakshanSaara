@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ## 💼 Projects
 - 💻 [Oasis InfoByte Internship](https://github.com/DarakshanSaara/OIBSIP)
 - 🎓 [Career Recommender - Java + Spring Boot WebApp](https://github.com/DarakshanSaara/career-path-api)
+- 🤖 [AI Job Matching & Progress Tracker](https://github.com/DarakshanSaara/narishakti-frontend)(https://github.com/DarakshanSaara/NariShakti-backend): React + Flask app using embedding similarity logic for job recommendations and user progress tracking.
 - 💸 [PayMate](https://github.com/DarakshanSaara/paymate): Blockchain-based student payment app
 - 🔗 [Postman API Challenge](https://github.com/DarakshanSaara/postman-api-certification): Completed with certification
 - 🌍 [Open Source Contributions](https://github.com/DarakshanSaara/open-source-contributions-gssoc-hacktoberfest): GSSoC, Hacktoberfest, PRs + Holopin badges

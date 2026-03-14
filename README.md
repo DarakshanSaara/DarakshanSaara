@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💻 Tech Stack
-`Java` `Spring Boot` `React` `HTML` `CSS` `JS` `MySQL` `MongoDB` `Firebase` `GitHub` `Postman` `Git` `AI/ML`
+`Java` `Spring Boot` `React` `HTML` `CSS` `JS` `MySQL` `MongoDB` `Firebase` `Git` `GitHub` `Postman` `AI/ML`
 
 ## 💼 Projects
 - 💻 [Oasis InfoByte Internship](https://github.com/DarakshanSaara/OIBSIP)

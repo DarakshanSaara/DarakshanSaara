@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   **365 Days Badge 2025**
 
 - # ✅ Problem Categories:
-  **Arrays, Linked List, String, Two pointers, Dynamic Programming, Bit Manipulation, Stack, Queue, Tree, Graph, Sorting, Searching, Greedy, Hash Table**  
+  **Arrays, Linked List, String, Two pointers, Dynamic Programming, Stack, Queue, Tree, Graph, Sorting, Searching, Bit Manipulation, Greedy, Hash Table**  
 
 ## 📜 Certifications
 - [Associate in IT Foundation Skills (Java)] - Infosys Springboard

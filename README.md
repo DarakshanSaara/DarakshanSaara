@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - Language: Java, C++
 - Streak :
 
-  **50 Days Badge 2025**
+  **50 Days Badge 2025** | **50 Days Badge 2026**
 
   **100 Days Badge 2025**
 

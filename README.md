@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
   **365 Days Badge 2025**
 
+  **500 Days Badge**
+
 - # ✅ Problem Categories:
   **Arrays, Linked List, String, Two pointers, Dynamic Programming, Stack, Queue, Tree, Graph, Sorting, Searching, Bit Manipulation, Greedy, Hash Table**  
 

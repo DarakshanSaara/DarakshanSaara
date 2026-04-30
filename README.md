@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
   **50 Days Badge 2025** | **50 Days Badge 2026**
 
-  **100 Days Badge 2025**
+  **100 Days Badge 2025** | **100 Days Badge 2026**
 
   **200 Days Badge 2025**
 

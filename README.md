@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 ## 📊 LeetCode Practice
-- Solved 450+ problems  
+- Solved 450+ problems
 - Language: Java, C++
 - Streak :
 

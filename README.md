@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   **500 Days Badge**
 
 - # ✅ Problem Categories:
-  **Arrays, Linked List, String, Two pointers, Dynamic Programming, Stack, Queue, Tree, Graph, Sorting, Searching, Bit Manipulation, Greedy, Hash Table**  
+  **Arrays, Linked List, String, Two pointers, Dynamic Programming, Stack, Queue, Tree, Graph, Union-Find, Sorting, Searching, Bit Manipulation, Greedy, Hash Table**  
 
 ## 📜 Certifications
 - [Associate in IT Foundation Skills (Java)] - Infosys Springboard

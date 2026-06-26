@@ -18,7 +18,26 @@ Here are some ideas to get you started:
 -->
 
 ## 💻 Tech Stack
-`Java` `Spring Boot` `React` `HTML` `CSS` `JS` `MySQL` `MongoDB` `Firebase` `Git` `GitHub` `Postman` `AI/ML`
+💻 Languages
+`Java` `C++` `JavaScript` `HTML` `CSS`
+
+⚙️ Backend
+`Spring Boot` `REST APIs` `Flask`
+
+🎨 Frontend
+`React` `Bootstrap`
+
+🗄️ Databases & Cloud
+`MySQL` `MongoDB` `Firebase` `Google Cloud`
+
+🛠️ Tools & Technologies
+`Git` `GitHub` `Postman` `Maven`
+
+📚 Core CS
+`Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems` `Computer Networks`
+
+🤖 Exploring
+`Artificial Intelligence` `Machine Learning` `Blockchain`
 
 ## 💼 Projects
 - 💻 [Oasis InfoByte Internship](https://github.com/DarakshanSaara/OIBSIP)

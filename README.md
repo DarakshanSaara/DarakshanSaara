@@ -49,25 +49,32 @@ Here are some ideas to get you started:
 - 📽️ [LyVo]: AI-Powered Video Conferencing Platform
 
 
-## 📊 LeetCode Practice
-- Solved 500+ problems
-- Language: Java, C++
-- Streak :
+## 📊 LeetCode
 
-  **50 Days Badge 2025** | **50 Days Badge 2026**
+- 💡 Solved **500+ coding problems** using **Java**
+- 🔥 Demonstrated consistent coding practice through multiple LeetCode milestone badges.
 
-  **100 Days Badge 2025** | **100 Days Badge 2026**
+### 🏅 Achievements
+- 🥇 365 Days Badge (2025)
+- 🥇 500 Days Badge
+- 🏆 300+ Days Annual Badge (2025)
+- ⭐ 200 Days Badge (2025)
+- ⭐ 100 Days Badge (2025 & 2026)
+- ⭐ 50 Days Badge (2025 & 2026)
 
-  **200 Days Badge 2025**
+### 📚 Topics Covered
 
-  **300+ Days Annual Badge 2025**
-
-  **365 Days Badge 2025**
-
-  **500 Days Badge**
-
-- # ✅ Problem Categories:
-  **Arrays, Linked List, String, Two pointers, Dynamic Programming, Stack, Queue, Math, Tree, Graph, Union-Find, Sorting, Searching, Greedy, Hash Table**  
+`Arrays` `Strings` `Linked List` `Stack` `Queue` `Hash Table`
+`Binary Search` `Sorting` `Two Pointers`
+`Tree` `Binary Tree` `BST`
+`Graph` `DFS` `BFS` `Union-Find`
+`Dynamic Programming`
+`Greedy`
+`Backtracking`
+`Math`
+`Sliding Window`
+`Prefix Sum`
+`Heap/Priority Queue`
 
 ## 📜 Certifications
 - [Associate in IT Foundation Skills (Java)] - Infosys Springboard

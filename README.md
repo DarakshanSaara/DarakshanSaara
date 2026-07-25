@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 💻 Tech Stack
 💻 Languages
-`Java` `C++` `JavaScript` `HTML` `CSS`
+`Java` `C++/C` `JavaScript` `HTML` `CSS`
 
 ⚙️ Backend
 `Spring Boot` `REST APIs` `Flask`

@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 `React` `Bootstrap`
 
 🗄️ Databases & Cloud
-`MySQL` `MongoDB` `Firebase` `Google Cloud`
+`MySQL` `MongoDB` `Firebase` `Google Cloud (GCP)`
 
 🛠️ Tools & Technologies
 `Git` `GitHub` `Postman` `Maven`
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## 📊 LeetCode
 
-- 💡 Solved **570+ coding problems** using **Java**
+- 💡 Solved **580+ coding problems** using **Java**
 - 🔥 Demonstrated consistent coding practice through multiple LeetCode milestone badges.
 
 ### 🏅 Achievements

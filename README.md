@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 `Graph` `DFS` `BFS` `Union-Find`
 `Dynamic Programming`
 `Greedy`
-`Backtracking`
 `Math`
 `Sliding Window`
 `Prefix Sum`

@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 `Heap/Priority Queue`
 
 ## 📜 Certifications
-- [Associate in IT Foundation Skills (Java)] - Infosys Springboard
+- [Associate in IT Foundation Skills (Java)] - Infosys Springboard(<img width="1172" height="827" alt="image" src="https://github.com/user-attachments/assets/fad2005d-be95-4a5b-a3e5-5991f5626e46" />)
 - [Data Structure and Backend with Java](https://www.coursera.org/account/accomplishments/verify/4J4OD8AJLEV4?utm_product=course)
 - [Credly Badge Board](https://www.credly.com/users/saara-darakshan)
 - [Google Cloud Arcade](https://certificate.givemycertificate.com/c/2d61a888-0efb-4f3e-ba1f-21984545b9c6)

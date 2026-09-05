@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 `React` `Bootstrap`
 
 🗄️ Databases & Cloud
-`MySQL` `MongoDB` `Firebase` `Google Cloud (GCP)`
+`MySQL` `MongoDB` `PostgreSQL` `Firebase` `Google Cloud (GCP)`
 
 🛠️ Tools & Technologies
 `Git` `GitHub` `Postman` `Maven`

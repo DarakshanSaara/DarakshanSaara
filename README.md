@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## 📊 LeetCode
 
-- 💡 Solved **625+ coding problems** using **Java**
+- 💡 Solved **630+ coding problems** using **Java**
 - 🔥 Demonstrated consistent coding practice through multiple LeetCode milestone badges.
 
 ### 🏅 Achievements

@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 📚 Core CS
 `Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems` `Computer Networks`
 
-🤖 Exploring
-`Artificial Intelligence` `Machine Learning` `Blockchain`
+🤖 AI
+`AI Agents` `Context Engineering` `AI Fluency` `AI Evals`
 
 ## 💼 Projects
 - 💻 [Oasis InfoByte Internship](https://github.com/DarakshanSaara/OIBSIP)

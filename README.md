@@ -51,13 +51,13 @@ Here are some ideas to get you started:
 
 ## 📊 LeetCode
 
-- 💡 Solved **660+ coding problems** using **Java**
+- 💡 Solved **665+ coding problems** using **Java**
 - 🔥 Demonstrated consistent coding practice through multiple LeetCode milestone badges.
 
 ### 🏅 Achievements
 - 🥇 365 Days Badge (2025)
 - 🥇 500 Days Badge
-- 🏆 300+ Days Annual Badge (2025)
+- 🏆 300+ Days Annual Badge (2025 & 2026)
 - ⭐ 200 Days Badge (2025 & 2026)
 - ⭐ 100 Days Badge (2025 & 2026)
 - ⭐ 50 Days Badge (2025 & 2026)
